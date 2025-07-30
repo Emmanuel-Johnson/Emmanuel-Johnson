@@ -1,4 +1,4 @@
-# 👋 Hi, I am Emmanuel Johnson  
+# Hi, I am Emmanuel Johnson  
 Grinding every day to become a top **Full‑Stack Developer**.  
 
 <pre align="center">
