@@ -1,4 +1,17 @@
-<div align="center">
+<table>
+<tr>
+<td width="35%" valign="middle">
+
+# Emmanuel Johnson
+
+`Python Full Stack Developer`
+
+Building modern web apps.
+Learning every day.
+
+</td>
+
+<td width="65%" align="right">
 
 <img src="https://skillicons.dev/icons?i=python,django,react,postgres,redux&perline=5" />
 <br><br>
@@ -8,4 +21,6 @@
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux&perline=5" />
 
-</div>
+</td>
+</tr>
+</table>
