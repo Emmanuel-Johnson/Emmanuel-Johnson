@@ -2,8 +2,8 @@
 
 ### Emmanuel Johnson
 
-### `Python Full Stack Developer`
+### *`Python Full Stack Developer`*
 
-`Building modern web apps. `
+*`Building modern web apps.`*
 
-`Learning every day.`
+*`Learning every day.`*
