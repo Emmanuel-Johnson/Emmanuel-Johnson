@@ -1,3 +1,4 @@
+<pre>
                                                E M M A N U E L   J O H N S O N
              ################                  -----------------------------------------------------
             ###   ############                 Role .......... Full Stack Developer
@@ -18,4 +19,4 @@
             ##############   ###               Phone ........ +91 70127 81924
              #############   ###               GitHub ....... @Emmanuel-Johnson
               #################                Portfolio .... emmanuel-johnson.vercel.app
-                                               
+</pre>
