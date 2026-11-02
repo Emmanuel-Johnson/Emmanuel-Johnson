@@ -1,8 +1,3 @@
-<!--
-  GitHub Profile README - Emmanuel Johnson
-  Save as README.md in a repo named EXACTLY your GitHub username.
--->
-
 ```text
                                       E M M A N U E L   J O H N S O N
      ###############                  -----------------------------------------------------
@@ -13,11 +8,11 @@
 #######################  ######       OS ............ Ubuntu 22.04
 ######################   ########
 #####################    ########     Languages.Programming .. Python, JavaScript, TypeScript
-####################   ###########    Languages.Markup ....... HTML, CSS, Tailwind, Bootstrap
+####################   ###########    Languages.Markup ....... HTML, CSS, Tailwind
 #####                #############
-##     ###########################    Focus.Backend .......... Django, DRF, REST APIs, JWT auth
-#   #############################     Focus.Frontend ......... React, responsive UI, clean code
-#   ############################      Focus.Database ......... PostgreSQL, MongoDB, SQLite
+##     ###########################    Focus.Backend .......... Django, DRF, REST APIs
+#   #############################     Focus.Frontend ......... React, Redux Toolkit
+#   ############################      Focus.Database ......... PostgreSQL, MongoDB, MySQL
 #  ############################       Tools .................. Git/GitHub, Figma, Postman
    ###########
    ####################               Contact
