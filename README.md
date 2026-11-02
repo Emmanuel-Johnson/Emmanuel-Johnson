@@ -2,22 +2,22 @@
                                                     E M M A N U E L   J O H N S O N
      ################                               -----------------------------------------------------
     ###   ############                              
-    ##    #############                             <i>Role .......... Full Stack Developer</i>
-    ###################                             <i>Stack ......... Python / Django / React</i>
-            ###########                             <i>Location ...... Kochi, Kerala, India</i>
-#######################  #######                    <i>IDE ........... VS Code</i>
-######################   ########                   <i>OS ............ Ubuntu 22.04</i>
+    ##    #############                             Role .......... <i>Full Stack Developer</i>
+    ###################                             Stack ......... <i>Python / Django / React</i>
+            ###########                             Location ...... <i>Kochi, Kerala, India</i>
+#######################  #######                    IDE ........... <i>VS Code</i>
+######################   ########                   OS ............ <i>Ubuntu 22.04</i>
 #####################   ##########                  
-####################   ###########                  <i>Languages.Programming .. Python, JavaScript, TypeScript</i>
-####                 #############                  <i>Languages.Markup ....... HTML, CSS, Tailwind</i>
+####################   ###########                  Languages.Programming .. <i>Python, JavaScript, TypeScript</i>
+####                 #############                  Languages.Markup ....... <i>HTML, CSS, Tailwind</i>
 ##   #############################                  
-#   #############################                   <i>Focus.Backend .......... Django, DRF, REST APIs</i>
-#  #############################                    <i>Focus.Frontend ......... React, Redux Toolkit</i>
-#  ############################                     <i>Focus.Database ......... PostgreSQL, MongoDB, MySQL</i>
-   ###########                                      <i>Tools .................. Git/GitHub, Figma, Postman</i>
+#   #############################                   Focus.Backend .......... <i>Django, DRF, REST APIs</i>
+#  #############################                    Focus.Frontend ......... <i>React, Redux Toolkit</i>
+#  ############################                     Focus.Database ......... <i>PostgreSQL, MongoDB, MySQL</i>
+   ###########                                      Tools .................. <i>Git/GitHub, Figma, Postman</i>
    ####################                             
-    ##############   ###                            <i>Email ........ emmanuel.johnson.pro@gmail.com</i>
-     #############   ###                            <i>Phone ........ +91 70127 81924</i>
-      #################                             <i>GitHub ....... @Emmanuel-Johnson</i>
-                                                    <i>Portfolio .... emmanuel-johnson.vercel.app</i>
+    ##############   ###                            Email ........ <i>emmanuel.johnson.pro@gmail.com</i>
+     #############   ###                            Phone ........ <i>+91 70127 81924</i>
+      #################                             GitHub ....... <i>@Emmanuel-Johnson</i>
+                                                    Portfolio .... <i>emmanuel-johnson.vercel.app</i>
 </pre>
